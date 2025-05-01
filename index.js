@@ -9,7 +9,7 @@ const cors = require("cors");
 const dotenv = require("dotenv");
 
 // dotenv.config();
-require('dotenv').config({ path: '../.env' });
+require('dotenv').config();
 const PORT = process.env.PORT || 4000;
 
 //database connect
