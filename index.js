@@ -47,7 +47,7 @@ app.get("/api/testing", (req, res) => {
 app.get("/api/new1", (req, res) => {
 	return res.json({
 		success:true,
-		message:'Your server is up and running and this is bhargav 22DIT013'
+		message:'Your server is up and running and this is bhargav dugrani 22DIT013'
 	});
 });
 
