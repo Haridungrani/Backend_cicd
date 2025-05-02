@@ -40,7 +40,7 @@ app.get("/", (req, res) => {
 app.get("/api/testing", (req, res) => {
 	return res.json({
 		success:true,
-		message:'Your server is up and running and this is bhagukheifgwifgfhwfjgww...'
+		message:'	22DIT013 is testing the server and this is my first API'
 	});
 });
 
