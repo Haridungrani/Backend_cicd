@@ -40,7 +40,7 @@ app.get("/", (req, res) => {
 app.get("/api/testing", (req, res) => {
 	return res.json({
 		success:true,
-		message:'	22DIT013 is testing the server and this is my first API'
+		message:'bhargav dungrani 22DIT013'
 	});
 });
 
